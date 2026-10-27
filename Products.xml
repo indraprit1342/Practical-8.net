@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <ProductID>1</ProductID>
+    <ProductName>Dell Laptop</ProductName>
+    <Category>Electronics</Category>
+    <Price>55000</Price>
+    <Quantity>15</Quantity>
+  </Product>
+  <Product>
+    <ProductID>2</ProductID>
+    <ProductName>HP Laptop</ProductName>
+    <Category>Electronics</Category>
+    <Price>48000</Price>
+    <Quantity>10</Quantity>
+  </Product>
+  <Product>
+    <ProductID>3</ProductID>
+    <ProductName>Wireless Mouse</ProductName>
+    <Category>Accessories</Category>
+    <Price>799</Price>
+    <Quantity>25</Quantity>
+  </Product>
+  <Product>
+    <ProductID>4</ProductID>
+    <ProductName>Mechanical Keyboard</ProductName>
+    <Category>Accessories</Category>
+    <Price>2499</Price>
+    <Quantity>12</Quantity>
+  </Product>
+  <Product>
+    <ProductID>5</ProductID>
+    <ProductName>Samsung Monitor</ProductName>
+    <Category>Electronics</Category>
+    <Price>12500</Price>
+    <Quantity>8</Quantity>
+  </Product>
+  <Product>
+    <ProductID>6</ProductID>
+    <ProductName>USB-C Hub</ProductName>
+    <Category>Accessories</Category>
+    <Price>1499</Price>
+    <Quantity>322</Quantity>
+  </Product>
+  <Product>
+    <ProductID>7</ProductID>
+    <ProductName>Office Chair</ProductName>
+    <Category>Furniture</Category>
+    <Price>6500</Price>
+    <Quantity>7</Quantity>
+  </Product>
+  <Product>
+    <ProductID>9</ProductID>
+    <ProductName>Canon Printer</ProductName>
+    <Category>Electronics</Category>
+    <Price>8500</Price>
+    <Quantity>6</Quantity>
+  </Product>
+  <Product>
+    <ProductID>10</ProductID>
+    <ProductName>External SSD</ProductName>
+    <Category>Accessories</Category>
+    <Price>4500</Price>
+    <Quantity>9</Quantity>
+  </Product>
+  <Product>
+    <ProductID>11</ProductID>
+    <ProductName>Laptop Backpack</ProductName>
+    <Category>Bags</Category>
+    <Price>1299</Price>
+    <Quantity>18</Quantity>
+  </Product>
+  <Product>
+    <ProductID>12</ProductID>
+    <ProductName>Wireless Headphones</ProductName>
+    <Category>Accessories</Category>
+    <Price>2999</Price>
+    <Quantity>2</Quantity>
+  </Product>
+  <Product>
+    <ProductID>13</ProductID>
+    <ProductName>mouse</ProductName>
+    <Category>Accessories</Category>
+    <Price>4000</Price>
+    <Quantity>50</Quantity>
+  </Product>
+</Products>
